@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/Hexlet/hexlet-correction.svg?branch=master)](https://travis-ci.com/Hexlet/hexlet-correction)
+[![github action status](https://github.com/Hexlet/hexlet-correction/workflows/Java%20Test/badge.svg)](https://actions-badge.atrox.dev/hexlet/hexlet-correction/goto)
 [![Maintainability](https://api.codeclimate.com/v1/badges/adb867526033eca72d49/maintainability)](https://codeclimate.com/github/Hexlet/hexlet-correction/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/adb867526033eca72d49/test_coverage)](https://codeclimate.com/github/Hexlet/hexlet-correction/test_coverage)
 
